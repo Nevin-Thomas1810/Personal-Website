@@ -4,7 +4,7 @@ I know the website is not cutting-edged or polished but i am working on my CSS s
 
 Here is a cool image of a cat though:
 
-<img width="960" height="2079" alt="show-me-your-cats-judgiest-face-v0-72yc4no007ph1" src="https://github.com/user-attachments/assets/2620b563-709c-4c74-a92d-0281abd5c6ed" />
+<img width="360" height="970" alt="show-me-your-cats-judgiest-face-v0-72yc4no007ph1" src="https://github.com/user-attachments/assets/2620b563-709c-4c74-a92d-0281abd5c6ed" />
 
 This website was made with html and CSS. No JS included.
 
